@@ -6,7 +6,7 @@ I work at the intersection of data engineering, analytics, and business intellig
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 **Data Analysis & Science**
 
@@ -36,7 +36,7 @@ I work at the intersection of data engineering, analytics, and business intellig
 
 ---
 
-## 🔍 What I do
+## What I do
 
 - **ETL Pipelines** — Extract, transform and load data from relational databases, APIs and flat files using SQL, Python and Power Query
 - **Data Analysis** — Exploratory and descriptive analysis over large datasets: cleaning, validation, statistical modelling and visualisation
