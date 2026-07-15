@@ -2,7 +2,7 @@
 
 **Data Analyst & BI Specialist @ SciY-Bruker**
 
-I work at the intersection of data engineering, analytics, and business intelligence — building ETL pipelines, analytical models, and interactive dashboards that drive real impact.
+I work at the intersection of data engineering, analytics, and business intelligence — building ETL pipelines, analytical models, and interactive dashboards.
 
 ---
 
