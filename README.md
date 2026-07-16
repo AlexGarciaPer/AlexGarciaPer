@@ -39,7 +39,7 @@ I work at the intersection of data engineering, analytics, and business intellig
 - **Data Analysis** — Exploratory and descriptive analysis over large datasets: cleaning, validation, statistical modelling and visualisation
 - **BI Dashboards** — Interactive Power BI reports with DAX, KPI tracking, trend analysis and automated reporting
 - **Machine Learning** — Applied ML models using scikit-learn and pandas, from feature engineering to deployment
-- **RAG & AI Solutions** — Conversational assistants built on Retrieval-Augmented Generation (RAG) architectures on AWS Bedrock
+- **RAG & AI Solutions** — Conversational assistants built on Retrieval-Augmented Generation (RAG) architectures
 - **Salesforce Admin** — Sales Cloud / Service Cloud administration, Flow automation and CRM analytics
 
 ---
